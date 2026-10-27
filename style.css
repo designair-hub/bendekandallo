@@ -1,0 +1,12 @@
+/*
+Theme Name: Bende Kandalló
+Theme URI: https://github.com/designair-hub/bendekandallo
+Update URI: https://github.com/designair-hub/bendekandallo
+Description: Önálló WordPress téma a Bende Kandalló webshophoz (Tailwind CSS, WooCommerce).
+Author: Pap Balázs - DESIGNAIR
+Author URI: https://designair.hu
+
+Version: 1.0.0
+Text Domain: bendekandallo-theme
+*/
+/* A téma stílusai a Tailwind buildből jönnek: tailwind/input.css → css/tailwind.<hash>.css (npm run build). */
